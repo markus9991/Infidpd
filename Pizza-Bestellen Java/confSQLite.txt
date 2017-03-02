@@ -1,0 +1,12 @@
+org.sqlite.JDBC
+jdbc:sqlite:PizzaService.db
+
+
+C:/Users/Gerhard/OneDrive/Schule/INFI-DPD/Projekt Pizza/SQLite/createstatements.txt
+5
+C:/Users/Gerhard/OneDrive/Schule/INFI-DPD/Projekt Pizza/SQLite/SQLstatements.txt
+25
+C:/Users/Gerhard/OneDrive/Schule/INFI-DPD/Projekt Pizza/SQLite/dataPersonen.txt
+4
+C:/Users/GErhard/OneDrive/Schule/INFI-DPD/Projekt Pizza/SQLite/dataPizza.txt
+5

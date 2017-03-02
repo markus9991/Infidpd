@@ -1,0 +1,12 @@
+com.mysql.jdbc.Driver
+jdbc:mysql://localhost/pizzabestellungen
+root
+
+C:/Users/Gerhard/OneDrive/Schule/INFI-DPD/Projekt Pizza/MySQL/createstatements.txt
+5
+C:/Users/Gerhard/OneDrive/Schule/INFI-DPD/Projekt Pizza/MySQL/SQLstatements.txt
+25
+C:/Users/Gerhard/OneDrive/Schule/INFI-DPD/Projekt Pizza/MySQL/dataPersonen.txt
+4
+C:/Users/Gerhard/OneDrive/Schule/INFI-DPD/Projekt Pizza/MySQL/dataPizza.txt
+5
