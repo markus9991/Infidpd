@@ -1,0 +1,9 @@
+{
+	"database" : "C:/Users/Gerhard/OneDrive/Schule/workspace/Visu/src/sprit.db",
+	"sql1" : "SELECT * FROM filling_stations",
+	"sql2" : "SELECT date(datum, 'unixepoch', 'utc') as day, avg(value),label FROM sprit_data JOIN filling_stations USING(tankenr) WHERE label= ? AND day > ? AND day < ? GROUP by day",
+	"sql3" : "SELECT strftime('%Y-%m-%d %H', datum, 'unixepoch', 'utc') as hour, MIN(value),label FROM sprit_data JOIN filling_stations USING(tankenr) WHERE hour >= ? AND hour < ? GROUP BY hour",
+	"today" : "2017-1-29",
+	"path" : "C:/Users/Gerhard/Downloads/"
+	
+}
